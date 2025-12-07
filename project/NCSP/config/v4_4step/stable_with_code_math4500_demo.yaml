@@ -24,8 +24,8 @@ common:
     - 'Qwen/Qwen2.5-72B-Instruct'
     # - "glm-4"
   resp_api_keys:
-    - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
-    # - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
+    - 'your-api-key'
+    # - 'your-api-key'
 
   # resp_urls:
   #   
@@ -34,8 +34,8 @@ common:
   #   - "glm-4"
   #   - "glm-4"
   # resp_api_keys:
-  #   - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
-  #   - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
+  #   - 'your-api-key'
+  #   - 'your-api-key'
 
   api_timeout: 360
 
@@ -77,8 +77,8 @@ common:
     - 'Qwen/Qwen2.5-72B-Instruct'
     # - "glm-4"
   resp_api_keys:
-    - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
-    # - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
+    - 'your-api-key'
+    # - 'your-api-key'
 
   # resp_urls:
   #   
@@ -87,8 +87,8 @@ common:
   #   - "glm-4"
   #   - "glm-4"
   # resp_api_keys:
-  #   - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
-  #   - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
+  #   - 'your-api-key'
+  #   - 'your-api-key'
 
   api_timeout: 360
 
@@ -130,8 +130,8 @@ common:
     - 'Qwen/Qwen2.5-72B-Instruct'
     # - "glm-4"
   resp_api_keys:
-    - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
-    # - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
+    - 'your-api-key'
+    # - 'your-api-key'
 
   # resp_urls:
   #   
@@ -140,8 +140,8 @@ common:
   #   - "glm-4"
   #   - "glm-4"
   # resp_api_keys:
-  #   - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
-  #   - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
+  #   - 'your-api-key'
+  #   - 'your-api-key'
 
   api_timeout: 360
 
@@ -182,8 +182,8 @@ common:
     - 'Qwen/Qwen2.5-72B-Instruct'
     # - "glm-4"
   resp_api_keys:
-    - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
-    # - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
+    - 'your-api-key'
+    # - 'your-api-key'
 
   # resp_urls:
   #   
@@ -192,8 +192,8 @@ common:
   #   - "glm-4"
   #   - "glm-4"
   # resp_api_keys:
-  #   - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
-  #   - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
+  #   - 'your-api-key'
+  #   - 'your-api-key'
 
   api_timeout: 360
 
@@ -235,8 +235,8 @@ common:
     - 'Qwen/Qwen2.5-72B-Instruct'
     # - "glm-4"
   resp_api_keys:
-    - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
-    # - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
+    - 'your-api-key'
+    # - 'your-api-key'
 
   # resp_urls:
   #   
@@ -245,8 +245,8 @@ common:
   #   - "glm-4"
   #   - "glm-4"
   # resp_api_keys:
-  #   - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
-  #   - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
+  #   - 'your-api-key'
+  #   - 'your-api-key'
 
   api_timeout: 360
 
@@ -288,8 +288,8 @@ common:
     - 'Qwen/Qwen2.5-72B-Instruct'
     # - "glm-4"
   resp_api_keys:
-    - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
-    # - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
+    - 'your-api-key'
+    # - 'your-api-key'
 
   # resp_urls:
   #   
@@ -298,8 +298,8 @@ common:
   #   - "glm-4"
   #   - "glm-4"
   # resp_api_keys:
-  #   - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
-  #   - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
+  #   - 'your-api-key'
+  #   - 'your-api-key'
 
   api_timeout: 360
 
@@ -341,8 +341,8 @@ common:
     - 'Qwen/Qwen2.5-72B-Instruct'
     # - "glm-4"
   resp_api_keys:
-    - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
-    # - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
+    - 'your-api-key'
+    # - 'your-api-key'
 
   # resp_urls:
   #   
@@ -351,8 +351,8 @@ common:
   #   - "glm-4"
   #   - "glm-4"
   # resp_api_keys:
-  #   - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
-  #   - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
+  #   - 'your-api-key'
+  #   - 'your-api-key'
 
   api_timeout: 360
 
@@ -394,8 +394,8 @@ common:
     - 'Qwen/Qwen2.5-72B-Instruct'
     # - "glm-4"
   resp_api_keys:
-    - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
-    # - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
+    - 'your-api-key'
+    # - 'your-api-key'
 
   # resp_urls:
   #   
@@ -404,8 +404,8 @@ common:
   #   - "glm-4"
   #   - "glm-4"
   # resp_api_keys:
-  #   - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
-  #   - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
+  #   - 'your-api-key'
+  #   - 'your-api-key'
 
   api_timeout: 360
 
@@ -449,8 +449,8 @@ common:
     - 'Qwen/Qwen2.5-72B-Instruct'
     # - "glm-4"
   resp_api_keys:
-    - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
-    # - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
+    - 'your-api-key'
+    # - 'your-api-key'
 
   # resp_urls:
   #   
@@ -459,8 +459,8 @@ common:
   #   - "glm-4"
   #   - "glm-4"
   # resp_api_keys:
-  #   - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
-  #   - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
+  #   - 'your-api-key'
+  #   - 'your-api-key'
 
   api_timeout: 360
 
@@ -503,8 +503,8 @@ common:
     - 'Qwen/Qwen2.5-72B-Instruct'
     # - "glm-4"
   resp_api_keys:
-    - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
-    # - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
+    - 'your-api-key'
+    # - 'your-api-key'
 
   # resp_urls:
   #   
@@ -513,8 +513,8 @@ common:
   #   - "glm-4"
   #   - "glm-4"
   # resp_api_keys:
-  #   - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
-  #   - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
+  #   - 'your-api-key'
+  #   - 'your-api-key'
 
   api_timeout: 360
 
@@ -556,8 +556,8 @@ common:
     - 'Qwen/Qwen2.5-72B-Instruct'
     # - "glm-4"
   resp_api_keys:
-    - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
-    # - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
+    - 'your-api-key'
+    # - 'your-api-key'
 
   # resp_urls:
   #   
@@ -566,8 +566,8 @@ common:
   #   - "glm-4"
   #   - "glm-4"
   # resp_api_keys:
-  #   - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
-  #   - 'ms-d120cb4a-080f-46f5-99b6-27fd64573382'
+  #   - 'your-api-key'
+  #   - 'your-api-key'
 
   api_timeout: 360
 
